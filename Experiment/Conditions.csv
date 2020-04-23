@@ -1,0 +1,5 @@
+Number,Stimuli,Procedure,Condition Description,Condition Notes
+1,vssStim.csv,vssProcSimLocalOnly.csv,vss-sim-loc,"10 items presented simultaneously in a grid, with values 1-10, without tones (only local item-level confidence ratings)"
+2,vssStim.csv,vssProcSimGlobalOnly.csv,vss-sim-glob,"10 items presented simultaneously in a grid, with values 1-10, without tones (only global list-level confidence ratings)"
+3,vssStim.csv,vssProcSimBoth.csv,vss-sim-b,"10 items presented simultaneously in a grid, with values 1-10, without tones (with both local and global confidence ratings)"
+4,vssStim.csv,vssProcSimNone.csv,vss-sim-n,"10 items presented simultaneously in a grid, with values 1-10, without tones (no confidence ratings)"
